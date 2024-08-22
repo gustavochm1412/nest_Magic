@@ -14,3 +14,6 @@ npm i passport-jwt --save
 #4-Para executar o projeto em modo de desenvolvimento:
 npm run start:dev
 > :construction: Projeto em construção :construction:
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
